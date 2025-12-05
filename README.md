@@ -1,36 +1,26 @@
-# 💫 About Me
+# About Me
 AI & Machine Learning Engineer with a background in mechatronics and robotics.  
 I enjoy building intelligent systems, experimenting with RL, computer vision, NLP,  
 and creating real-world engineering projects.
-### 🔍 I'm currently working on:  
+### I'm currently working on:  
 - Computer Vision and NLP applications   
-### 🤝 I'm looking to collaborate on:
-- AI/ML projects  
-- Robotics & ROS2  
-- Python automation tools  
-### 🧠 I'm looking for help with:
+### I'm looking to collaborate on:
+- AI/ML projects    
+### I'm looking for help with:
 - Deployment of ML/DL models  
 - Advanced computer vision pipelines  
 - Optimizing RL agents  
-### 📚 I'm currently learning:
+### I'm currently learning:
 - Deep Learning  
-- TensorFlow  
+- TensorFlow   
 - NLP  
 - Backend Development  
 - Real-time computer vision techniques  
-### 💬 Ask me about:
-AI, Machine Learning, Robotics, Python, Reinforcement Learning,  
-Computer Vision, NLP, and embedded robotics projects.
-### 🎉 Fun fact:
-I love building robots from scratch — from the mechanical design to the AI brain.
----
-
-## 🌐 Socials
+## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullah-mohamed-hussien-yaqob-813828287)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdullah.mohamed10@msa.edu.eg)
-
 ---
-# 💻 Tech Stack
+# Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
